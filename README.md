@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para saber mais sobre mim, ou caso queira entrar em contato, por favor clique nos links abaixo! 😄
  
 <div> 
   <a href="https://instagram.com/somentealex" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
