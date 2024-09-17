@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alexsander ALbino 😁
+## Bem-vindo(a) ao perfil do Alexsander Albino 😁
 
  <div>
    <a href="https://github.com/AlexOnn1">
