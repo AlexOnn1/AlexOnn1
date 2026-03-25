@@ -59,9 +59,7 @@ Este é o meu projeto mais complexo e completo até o momento. Desenvolvido para
 
 ---
 
-## 🐍 Jogo da Cobrinha (Meus Commits)
-
-Aqui está uma representação divertida e dinâmica das minhas contribuições no GitHub!
+## 🐍 Meus Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexOnn1/AlexOnn1/output/github-contribution-grid-snake-dark.svg">
@@ -92,7 +90,7 @@ Aqui está uma representação divertida e dinâmica das minhas contribuições 
   <a href="mailto:alexsander.santos.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-E--mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="https://alexonn1.github.io/Portfolio-VI" target="_blank">
+  <a href="https://alexonn1.github.io/Portfolio-V1" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%23333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio Pessoal">
   </a>
 </div>
