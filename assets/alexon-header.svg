@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">AlexOn — Front-End Developer</title>
+<desc id="desc">Identidade de Alexsander Albino. Interfaces com personalidade, código com propósito. Alexon.dev.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030d0b"/><stop offset="1" stop-color="#082a23"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#00dba1"/><stop offset="1" stop-color="#00dba1" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7af5cf" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+<path d="M48 1H1232" stroke="#00dba1" stroke-opacity=".45"/>
+<g font-family="Consolas, 'Courier New', monospace">
+  <circle cx="62" cy="49" r="5" fill="#00dba1"/>
+  <text x="80" y="54" font-size="14" letter-spacing="3" fill="#7ed7be">ALEXSANDER / FRONT-END DEVELOPER</text>
+  <text x="56" y="162" font-size="88" font-weight="700" letter-spacing="-5" fill="#edfff8">ALEX<tspan fill="#00dba1">ON</tspan><tspan fill="#00dba1" font-size="54">_</tspan></text>
+  <text x="60" y="214" font-size="25" fill="#edfff8">Interfaces com personalidade.</text>
+  <text x="60" y="248" font-size="25" fill="#8ec4b6">Código com propósito.</text>
+  <path d="M60 283H600" stroke="url(#line)"/>
+  <text x="60" y="318" font-size="16" letter-spacing="2" fill="#00dba1">REACT · TYPESCRIPT · WEB &amp; MOBILE</text>
+  <text x="1180" y="318" text-anchor="end" font-size="16" fill="#8ec4b6">alexon.dev ↗</text>
+</g>
+<g transform="translate(1000 166)" fill="none">
+  <circle r="106" stroke="#00dba1" stroke-opacity=".12"/>
+  <circle r="80" stroke="#00dba1" stroke-opacity=".22" stroke-dasharray="3 9"/>
+  <rect x="-103" y="-62" width="206" height="124" rx="14" fill="#041b15" stroke="#00dba1" stroke-opacity=".55" transform="rotate(-8)"/>
+  <path d="M-38-22L-64 0L-38 22M38-22L64 0L38 22M14-34L-14 34" stroke="#00dba1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="84" cy="-65" r="8" fill="#00dba1"/>
+  <circle cx="-89" cy="57" r="4" fill="#b5ffe3"/>
+</g>
+</svg>
